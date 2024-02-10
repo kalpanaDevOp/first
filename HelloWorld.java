@@ -7,7 +7,9 @@ public class HelloWorld
 		int b;
 		int d=a-b;
 		int e=a*b;
-		System.out.println("subtraction of a and b="d);
-		System.out.println("multiplication of a and b="e);
+		int f=a/b;
+		System.out.println("subtraction of a and b="+d);
+		System.out.println("multiplication of a and b="+e);
+		System.out.println("division of a and b="+f);
 	}
 }
