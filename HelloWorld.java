@@ -6,6 +6,8 @@ public class HelloWorld
 		int a;
 		int b;
 		int d=a-b;
+		int e=a*b;
 		System.out.println("subtraction of a and b="d);
+		System.out.println("multiplication of a and b="e);
 	}
 }
